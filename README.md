@@ -1,63 +1,58 @@
-# Nazrin Afzal — Software Engineer (Backend | Laravel | Fintech)
+# 👋 Hi, I'm **Nazrin Afzal**  
+### Backend Software Engineer | Laravel • Fintech • APIs
 
-A meticulous backend engineer with 4+ years of experience designing secure, scalable, and high-performance applications across fintech, government, and enterprise environments. Adept in Laravel, API engineering, database optimization, and system architecture for mission-critical platforms.
-
----
-
-## Professional Experience
-
-### Software Engineer, E2 — Razer Merchant Services (Fintech)  
-**2025 – Present**  
-- Develop and maintain payment gateway solutions supporting credit/debit, BNPL, recurring payments.  
-- Build features for merchant portals, admin tools, and internal agent systems.  
-- Enhance availability monitoring for high-volume financial transactions.  
-- Manage MySQL and CouchDB ecosystems for transactional, dynamic, and log data.  
-- Automate workflows through cron jobs, background workers, and PHPUnit tests.
+Building scalable, secure, and high-performance backend systems powering real-world platforms.
 
 ---
 
-### Software Engineer — 3TD Solutions  
-**2023 – 2025**  
-- Delivered enterprise-scale government tender systems for KPM and CGSO.  
-- Designed secure multi-level data structures for nationwide user and organization management.  
-- Built RESTful APIs enabling secure data exchange across systems.  
-- Led a development team through architecture, code quality, and delivery cycles.  
-- Tech stack: Laravel, Angular, Next.js, MySQL, PostgreSQL, Prisma.
+## 🛠️ Tech Stack & Tools
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
 
-### Software Engineer, L1 — Stampede Solutions (Volare)  
-**2022 – 2023**  
-- Contributed to Volare, used by Malaysia’s top debt collection agencies and major banks.  
-- Enhanced system performance for large-scale financial workflows.  
-- Built secure APIs for banking integrations.  
-- Supported Agile sprints, QA, debugging, documentation.
+## 💼 Experience Highlights
+
+### 🔹 Razer Merchant Services (Fintech) — Software Engineer  
+- Payment gateway features powering Shopee, TikTok, Zus Coffee.  
+- Designed merchant dashboards, admin tools, monitoring systems.  
+- Built automated pipelines and backend workers.
+
+### 🔹 3TD Solutions — Software Engineer  
+- Delivered enterprise systems for government agencies (KPM, CGSO).  
+- Architected secure, large-scale data systems.  
+- Built and optimized REST APIs.
+
+### 🔹 Stampede Solutions — Software Engineer  
+- Enhanced Volare (used by 90% of major debt agencies).  
+- Built banking-grade API integrations.  
+- Improved SQL performance and backend processes.
 
 ---
 
-### Previous Roles  
-**Asia Padu** – Laravel-based exam bank (100k+ questions).  
-**Axis Network Technology** – Multi-marketplace e-commerce integrations.  
-**Akari Software** – SLiM student lifecycle system (Laravel, JS, Bootstrap).
+## 🚀 Notable Projects
+- **Palm Oil YOLOv3 Detector** — real-time detection using deep learning  
+- **CIDB HR System** — built with Laravel Livewire  
+- **Marketplace Sync Engine** — integrates Shopee, Amazon, Lazada, eBay  
 
 ---
 
-## Technical Skills
-**Languages:** PHP, JavaScript, SQL, Python  
-**Frameworks:** Laravel, Livewire, Angular, Next.js  
-**Databases:** MySQL, PostgreSQL, CouchDB  
-**Tools:** Docker, Git, PHPUnit  
-**Specialties:** API design, scalable backend architecture, system integrations
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazrinAfzal1997&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrinAfzal1997&layout=compact&theme=tokyonight)
 
 ---
 
-## GitHub Overview
+## 📫 Connect With Me
 
-![Nazrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazrinAfzal1997&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrinAfzal1997&layout=compact&theme=default)
-
----
-
-## Contact  
 **Email:** nazrinafzal.official@gmail.com  
-**Location:** Shah Alam, Selangor, Malaysia
+**LinkedIn:** (optional link)
