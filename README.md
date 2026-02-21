@@ -1,119 +1,120 @@
 # 👋 Hi, I'm Nazrin Afzal
-### Backend Engineer | Fintech Systems | High-Availability APIs
 
-Backend Engineer with 4+ years of experience designing and maintaining high-availability backend systems in fintech and enterprise environments. I specialize in transaction processing systems, RESTful API architecture, and scalable service design using Laravel and Golang.
+### Backend Engineer building high-availability fintech systems
 
-Currently building payment gateway infrastructure powering enterprise merchants across Southeast Asia.
+I design and engineer backend systems that move real money.
 
----
+Currently working in fintech, building and maintaining payment gateway infrastructure that powers enterprise merchants across Southeast Asia — handling high-volume transactions, strict uptime requirements, and production-grade reliability.
 
-## 🧠 Engineering Focus
-
-- High-availability payment systems
-- Transactional workflow design
-- RESTful API architecture
-- Backend scalability & performance optimization
-- Asynchronous processing & background workers
-- Clean architecture & system decomposition
+I specialize in scalable API architecture, transactional workflows, and backend systems that don't break under pressure.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Do
 
-### Backend
+- Architect high-availability payment services
+- Design RESTful APIs for high-volume transactional systems
+- Build asynchronous workers & background processing pipelines
+- Optimize database performance for production workloads
+- Improve system reliability in live payment environments
+- Contribute to Golang-based service components
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Clean architecture > messy features
+- Reliability > shortcuts
+- Observability > guessing
+- Scalability by design, not by accident
+- Code that survives production
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
 - PHP (Laravel)
 - Golang
-- REST APIs
+- RESTful API Design
 - OOP & Service-Oriented Architecture
 
-### Databases
+**Databases**
 - MySQL
 - PostgreSQL
 - CouchDB
 - Prisma ORM
 
-### DevOps & Engineering
-- Docker (Containerization)
-- PHPUnit (Automated Testing)
-- Cron Jobs & Queue Workers
+**Systems & DevOps**
+- Docker
+- PHPUnit
+- Queue Workers & Cron Jobs
+- Production Monitoring
 - Agile / Scrum
-- Production Monitoring & Incident Response
 
-### Frontend Exposure
+**Frontend Exposure**
 - Angular
 - Next.js
-- Laravel Livewire
+- Livewire
 - JavaScript
 
 ---
 
 ## 💼 Professional Experience
 
-### 🟣 Razer Merchant Services (Fintech) — Software Engineer (E2)  
-**May 2025 – Present**
+### 🟣 Fintech — Software Engineer (E2)
+**Razer Merchant Services | May 2025 – Present**
 
-- Develop and maintain high-availability payment gateway services supporting enterprise merchants (Shopee, TikTok, Zus Coffee).
-- Built systems supporting credit/debit, BNPL, recurring billing, and DuitNow QR transactions.
-- Designed and optimized scalable REST APIs handling high-volume transactional workflows.
-- Contributed to Golang-based components including DuitNow QR transaction generator modules.
-- Implemented background workers and asynchronous processing to improve throughput and reliability.
-- Optimized MySQL and CouchDB queries for transactional integrity in production.
-- Containerized services using Docker and implemented automated test coverage using PHPUnit.
-- Monitored live production systems and resolved payment-critical incidents.
-
----
-
-### 🔵 3TD Solutions — Software Engineer  
-**June 2023 – May 2025**
-
-- Delivered large-scale government systems for KPM and CGSO under strict security and compliance requirements.
-- Architected backend systems managing high volumes of sensitive organizational data.
-- Designed and integrated secure REST APIs across internal and external platforms.
-- Led a development team for a major government project (technical design, delegation, code quality).
-- Managed data workflows using MySQL, PostgreSQL, and Prisma ORM.
-- Developed full-stack solutions using Laravel, Angular, and Next.js.
+- Maintain high-availability payment gateway services supporting enterprise merchants (Shopee, TikTok, Zus Coffee).
+- Built systems supporting credit/debit cards, BNPL, recurring billing, and DuitNow QR.
+- Designed scalable REST APIs handling high-throughput transactional workflows.
+- Contributed to Golang-based components including QR transaction generator modules.
+- Implemented asynchronous background workers to improve system throughput.
+- Optimized MySQL & CouchDB for transactional integrity in production.
+- Monitored and resolved live payment-critical incidents.
 
 ---
 
-### 🟢 Stampede Solutions — Software Engineer  
-**Sept 2022 – May 2023**
+### 🔵 Government & Enterprise Systems — Software Engineer
+**3TD Solutions | June 2023 – May 2025**
 
-- Contributed to Volare, an accounts receivable system used by 90% of major Malaysian debt collection agencies.
-- Built and optimized REST APIs integrated with banking systems.
-- Improved SQL performance and backend scalability.
-- Collaborated in Agile (Scrum) environment with structured QA and review cycles.
+- Delivered secure large-scale systems for government agencies (KPM, CGSO).
+- Architected backend systems handling high volumes of sensitive data.
+- Led a development team for a major government project.
+- Designed secure REST API integrations across internal and external systems.
+- Managed relational databases with performance and data integrity focus.
 
 ---
 
-## 🚀 Notable Projects
+### 🟢 Financial Systems — Software Engineer
+**Stampede Solutions | Sept 2022 – May 2023**
+
+- Contributed to Volare, used by 90% of major Malaysian debt collection agencies.
+- Built banking-grade REST APIs integrated with financial systems.
+- Improved SQL performance and backend scalability in production.
+- Worked in structured Agile/Scrum delivery cycles.
+
+---
+
+## 🚀 Selected Projects
 
 ### 🧠 Palm Oil Maturity Detection (YOLOv3)
-- Trained on 3,000+ annotated images.
-- Real-time classification via image, video, and webcam.
-- Built in Python for agricultural automation use cases.
+Deep learning computer vision system:
+- 3,000+ annotated images
+- Real-time image, video & webcam detection
+- Built in Python
 
 ### 🏢 CIDB HR System
-- Developed interactive HR modules using Laravel Livewire.
-- Streamlined recruitment workflow and employee portfolio management.
+- Laravel Livewire-based HR modules
+- Real-time interactive backend-driven features
 
-### 🛒 Marketplace Integration Engine
-- Multi-platform integration (Shopee, Amazon, Lazada, eBay).
-- Listing sync, inventory management, and content automation.
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Science (Hons.)**  
-Universiti Teknologi MARA (UiTM)
-
-- Vice President, Computer Science Community (BASCO)
-- Mentor for Java programming students
-- Organized campus-level programming competitions
+### 🛒 Marketplace Sync Engine
+- Integrated Shopee, Amazon, Lazada, eBay
+- Automated listing & inventory synchronization
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 ![Nazrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazrinAfzal1997&show_icons=true&theme=tokyonight)
 
@@ -121,13 +122,12 @@ Universiti Teknologi MARA (UiTM)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📍 Shah Alam, Selangor, Malaysia  
+📍 Shah Alam, Malaysia  
 📧 nazrinafzal.official@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/nazrin-afzal1997/  
-📞 +6013-252-2684  
 
 ---
 
-> "Building resilient backend systems that power real-world commerce."
+### I build backend systems that stay reliable when traffic spikes and transactions matter.
