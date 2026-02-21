@@ -114,14 +114,6 @@ Deep learning computer vision system:
 
 ---
 
-## 📊 GitHub Stats
-
-![Nazrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazrinAfzal1997&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrinAfzal1997&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 📍 Shah Alam, Malaysia  
