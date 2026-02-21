@@ -1,58 +1,133 @@
-# 👋 Hi, I'm **Nazrin Afzal**  
-### Backend Software Engineer | Laravel • Fintech • APIs
+# 👋 Hi, I'm Nazrin Afzal
+### Backend Engineer | Fintech Systems | High-Availability APIs
 
-Building scalable, secure, and high-performance backend systems powering real-world platforms.
+Backend Engineer with 4+ years of experience designing and maintaining high-availability backend systems in fintech and enterprise environments. I specialize in transaction processing systems, RESTful API architecture, and scalable service design using Laravel and Golang.
 
----
-
-## 🛠️ Tech Stack & Tools
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+Currently building payment gateway infrastructure powering enterprise merchants across Southeast Asia.
 
 ---
 
-## 💼 Experience Highlights
+## 🧠 Engineering Focus
 
-### 🔹 Razer Merchant Services (Fintech) — Software Engineer  
-- Payment gateway features powering Shopee, TikTok, Zus Coffee.  
-- Designed merchant dashboards, admin tools, monitoring systems.  
-- Built automated pipelines and backend workers.
+- High-availability payment systems
+- Transactional workflow design
+- RESTful API architecture
+- Backend scalability & performance optimization
+- Asynchronous processing & background workers
+- Clean architecture & system decomposition
 
-### 🔹 3TD Solutions — Software Engineer  
-- Delivered enterprise systems for government agencies (KPM, CGSO).  
-- Architected secure, large-scale data systems.  
-- Built and optimized REST APIs.
+---
 
-### 🔹 Stampede Solutions — Software Engineer  
-- Enhanced Volare (used by 90% of major debt agencies).  
-- Built banking-grade API integrations.  
-- Improved SQL performance and backend processes.
+## 🛠️ Tech Stack
+
+### Backend
+- PHP (Laravel)
+- Golang
+- REST APIs
+- OOP & Service-Oriented Architecture
+
+### Databases
+- MySQL
+- PostgreSQL
+- CouchDB
+- Prisma ORM
+
+### DevOps & Engineering
+- Docker (Containerization)
+- PHPUnit (Automated Testing)
+- Cron Jobs & Queue Workers
+- Agile / Scrum
+- Production Monitoring & Incident Response
+
+### Frontend Exposure
+- Angular
+- Next.js
+- Laravel Livewire
+- JavaScript
+
+---
+
+## 💼 Professional Experience
+
+### 🟣 Razer Merchant Services (Fintech) — Software Engineer (E2)  
+**May 2025 – Present**
+
+- Develop and maintain high-availability payment gateway services supporting enterprise merchants (Shopee, TikTok, Zus Coffee).
+- Built systems supporting credit/debit, BNPL, recurring billing, and DuitNow QR transactions.
+- Designed and optimized scalable REST APIs handling high-volume transactional workflows.
+- Contributed to Golang-based components including DuitNow QR transaction generator modules.
+- Implemented background workers and asynchronous processing to improve throughput and reliability.
+- Optimized MySQL and CouchDB queries for transactional integrity in production.
+- Containerized services using Docker and implemented automated test coverage using PHPUnit.
+- Monitored live production systems and resolved payment-critical incidents.
+
+---
+
+### 🔵 3TD Solutions — Software Engineer  
+**June 2023 – May 2025**
+
+- Delivered large-scale government systems for KPM and CGSO under strict security and compliance requirements.
+- Architected backend systems managing high volumes of sensitive organizational data.
+- Designed and integrated secure REST APIs across internal and external platforms.
+- Led a development team for a major government project (technical design, delegation, code quality).
+- Managed data workflows using MySQL, PostgreSQL, and Prisma ORM.
+- Developed full-stack solutions using Laravel, Angular, and Next.js.
+
+---
+
+### 🟢 Stampede Solutions — Software Engineer  
+**Sept 2022 – May 2023**
+
+- Contributed to Volare, an accounts receivable system used by 90% of major Malaysian debt collection agencies.
+- Built and optimized REST APIs integrated with banking systems.
+- Improved SQL performance and backend scalability.
+- Collaborated in Agile (Scrum) environment with structured QA and review cycles.
 
 ---
 
 ## 🚀 Notable Projects
-- **Palm Oil YOLOv3 Detector** — real-time detection using deep learning  
-- **CIDB HR System** — built with Laravel Livewire  
-- **Marketplace Sync Engine** — integrates Shopee, Amazon, Lazada, eBay  
+
+### 🧠 Palm Oil Maturity Detection (YOLOv3)
+- Trained on 3,000+ annotated images.
+- Real-time classification via image, video, and webcam.
+- Built in Python for agricultural automation use cases.
+
+### 🏢 CIDB HR System
+- Developed interactive HR modules using Laravel Livewire.
+- Streamlined recruitment workflow and employee portfolio management.
+
+### 🛒 Marketplace Integration Engine
+- Multi-platform integration (Shopee, Amazon, Lazada, eBay).
+- Listing sync, inventory management, and content automation.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science (Hons.)**  
+Universiti Teknologi MARA (UiTM)
+
+- Vice President, Computer Science Community (BASCO)
+- Mentor for Java programming students
+- Organized campus-level programming competitions
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazrinAfzal1997&show_icons=true&theme=tokyonight)
+![Nazrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazrinAfzal1997&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrinAfzal1997&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-**Email:** nazrinafzal.official@gmail.com  
-**LinkedIn:** (optional link)
+📍 Shah Alam, Selangor, Malaysia  
+📧 nazrinafzal.official@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/nazrin-afzal1997/  
+📞 +6013-252-2684  
+
+---
+
+> "Building resilient backend systems that power real-world commerce."
